@@ -1,0 +1,15 @@
+D:\VisualStudio\projects\ConsoleApp7\ClientTCP\bin\Debug\net8.0\ClientTCP.exe
+D:\VisualStudio\projects\ConsoleApp7\ClientTCP\bin\Debug\net8.0\ClientTCP.deps.json
+D:\VisualStudio\projects\ConsoleApp7\ClientTCP\bin\Debug\net8.0\ClientTCP.runtimeconfig.json
+D:\VisualStudio\projects\ConsoleApp7\ClientTCP\bin\Debug\net8.0\ClientTCP.dll
+D:\VisualStudio\projects\ConsoleApp7\ClientTCP\bin\Debug\net8.0\ClientTCP.pdb
+D:\VisualStudio\projects\ConsoleApp7\ClientTCP\obj\Debug\net8.0\ClientTCP.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\projects\ConsoleApp7\ClientTCP\obj\Debug\net8.0\ClientTCP.AssemblyInfoInputs.cache
+D:\VisualStudio\projects\ConsoleApp7\ClientTCP\obj\Debug\net8.0\ClientTCP.AssemblyInfo.cs
+D:\VisualStudio\projects\ConsoleApp7\ClientTCP\obj\Debug\net8.0\ClientTCP.csproj.CoreCompileInputs.cache
+D:\VisualStudio\projects\ConsoleApp7\ClientTCP\obj\Debug\net8.0\ClientTCP.sourcelink.json
+D:\VisualStudio\projects\ConsoleApp7\ClientTCP\obj\Debug\net8.0\ClientTCP.dll
+D:\VisualStudio\projects\ConsoleApp7\ClientTCP\obj\Debug\net8.0\refint\ClientTCP.dll
+D:\VisualStudio\projects\ConsoleApp7\ClientTCP\obj\Debug\net8.0\ClientTCP.pdb
+D:\VisualStudio\projects\ConsoleApp7\ClientTCP\obj\Debug\net8.0\ClientTCP.genruntimeconfig.cache
+D:\VisualStudio\projects\ConsoleApp7\ClientTCP\obj\Debug\net8.0\ref\ClientTCP.dll
